@@ -3,6 +3,8 @@ This repo contains a pretty simple recursive resolver made using [meikg/dns](git
 
 **NOTE: This is made for educational purposes, don't use it for production at all**
 
+## Root Hints Files
+- You need to bootstrap your DNS Resolver https://www.iana.org/domains/root/files
 
 ## How to run it:
 - Install Go
